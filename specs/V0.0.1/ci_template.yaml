@@ -1,10 +1,10 @@
 scm:
   repo: "https://github.com/apurbaa10/spring-petclinic.git"
   branch: "main"
-#build:
+build:
   type: java
   tool: maven
-#unitTest:
+unitTest:
   isUnittestRequired: true
   tool: junit
 codeCoverage:
