@@ -8,5 +8,5 @@ unitTest:
   isUnittestRequired: true
   tool: junit
 codeCoverage:
-  isCodecoverageRequired: false
+  isCodecoverageRequired: true
   tool: jacoco
