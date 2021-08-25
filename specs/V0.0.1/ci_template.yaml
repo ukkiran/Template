@@ -7,8 +7,6 @@ build:
 unittest:
   type: java
   tool: junit
-  junit: true
 codecoverage:
   type: java
   tool: jacoco
-  jacoco: false
