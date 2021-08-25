@@ -5,8 +5,8 @@ build:
   type: java
   tool: maven
 unittest:
-  type: java
+  isUnittestRequired: true
   tool: junit
 codecoverage:
-  type: java
+  isCodecoverageRequired: true
   tool: jacoco
