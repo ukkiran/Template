@@ -13,3 +13,7 @@ codeCoverage:
 codeQuality:
   isCodeQualityRequired: true
   tool: sonarqube
+  projectKey: Petclinic
+  projectName: Petclinic
+  
+  
