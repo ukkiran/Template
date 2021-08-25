@@ -4,3 +4,11 @@ scm:
 build:
   type: java
   tool: maven
+unittest:
+  type: java
+  tool: junit
+  junit: true
+codecoverage:
+  type: java
+  tool: jacoco
+  jacoco: false
