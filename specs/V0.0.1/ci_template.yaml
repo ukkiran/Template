@@ -10,3 +10,6 @@ unitTest:
 codeCoverage:
   isCodecoverageRequired: true
   tool: jacoco
+codeQuality:
+  isCodeQualityRequired: true
+  tool: sonarqube
