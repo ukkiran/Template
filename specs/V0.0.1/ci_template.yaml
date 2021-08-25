@@ -4,9 +4,9 @@ scm:
 build:
   type: java
   tool: maven
-unittest:
+unitTest:
   isUnittestRequired: true
   tool: junit
-codecoverage:
+codeCoverage:
   isCodecoverageRequired: true
   tool: jacoco
