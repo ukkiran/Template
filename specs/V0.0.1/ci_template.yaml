@@ -16,5 +16,9 @@ codeQuality:
   tool: sonarqube
   projectKey: Petclinic
   projectName: Petclinic
+dockerBuild:
+  isDockerBuildRequired: true
+  tool: docker
+
   
   
