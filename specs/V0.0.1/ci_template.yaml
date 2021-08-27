@@ -5,18 +5,18 @@ build:
   type: java
   tool: maven
 unitTest:
-  isUnittestRequired: true
+  isUnittestRequired: false
   tool: junit
 codeCoverage:
-  isCodecoverageRequired: true
+  isCodecoverageRequired: false
   tool: jacoco
 codeQuality:
-  isCodeQualityRequired: true
+  isCodeQualityRequired: false
   tool: sonarqube
   projectKey: Petclinic
   projectName: Petclinic
 dockerBuild:
-  isDockerBuildRequired: true
+  isDockerBuildRequired: false
 dockerDeploy:
   isDockerDeployRequired: true
   
