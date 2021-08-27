@@ -17,7 +17,7 @@ codeQuality:
   projectKey: Petclinic
   projectName: Petclinic
 dockerBuild:
-  isDockerBuildRequired: false
+  isDockerBuildRequired: true
   tool: docker
 
   
