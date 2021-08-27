@@ -18,7 +18,10 @@ codeQuality:
   projectName: Petclinic
 dockerBuild:
   isDockerBuildRequired: true
-  tool: docker
+dockerDeploy:
+  isDockerBuildRequired: true
+  
+  
 
   
   
