@@ -6,7 +6,7 @@ build:
   type: java
   tool: maven
 unitTest:
-  isUnittestRequired: false
+  isUnittestRequired: true
   tool: junit
 codeCoverage:
   isCodecoverageRequired: false
@@ -17,10 +17,9 @@ codeQuality:
   projectKey: Petclinic
   projectName: Petclinic
 dockerBuild:
-  isDockerBuildRequired: true
+  isDockerBuildRequired: false
 dockerDeploy:
-  isDockerDeployRequired: true
-  
+  isDockerDeployRequired: false
   
 
   
