@@ -5,7 +5,7 @@ build:
   type: java
   tool: maven
 unitTest:
-  isUnittestRequired: false
+  isUnittestRequired: true
   tool: junit
 codeCoverage:
   isCodecoverageRequired: false
