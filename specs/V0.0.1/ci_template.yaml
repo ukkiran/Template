@@ -1,5 +1,5 @@
 scm:
-  repo: "https://github.com/ankurmalikiit/spring-petclinic.git"
+  repo: " https://github.com/ukkiran/spring-petclinic.git"
   branch: "main"
 build:
   type: java
@@ -16,9 +16,9 @@ codeQuality:
   projectKey: Petclinic
   projectName: Petclinic
 dockerBuild:
-  isDockerBuildRequired: false
+  isDockerBuildRequired: true
 dockerDeploy:
-  isDockerDeployRequired: false
+  isDockerDeployRequired: true
   
 
   
