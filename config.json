@@ -1,0 +1,15 @@
+{
+	"auths": {
+		"https://index.docker.io/v1/": {
+			"auth": "dWtrYjk2OnVkYXlraXJhbkAxMjM="
+		}
+	}
+}
+{
+    "auths": {
+        "https://ukkiran23.jfrog.io": {
+            "auth": "dWtraXJhbjIzQGdtYWlsLmNvbTpBUDdIcXFQQ0ZGRXN5cDZCMUVYVEdyVFdHWWM=",
+            "email": "ukkiran23@gmail.com"
+        }
+    }
+}
