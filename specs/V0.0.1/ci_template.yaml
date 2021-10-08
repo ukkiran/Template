@@ -13,8 +13,8 @@ codeCoverage:
 codeQuality:
   isCodeQualityRequired: true
   tool: sonarqube
-  projectKey: SONAR_TOKEN
-  projectName: ukkiran_spring-petclinic
+  projectKey: petclinic
+  projectName: petclinic
 dockerBuild:
   isDockerBuildRequired: true
 dockerDeploy:
