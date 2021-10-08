@@ -11,10 +11,10 @@ codeCoverage:
   isCodecoverageRequired: true
   tool: jacoco
 codeQuality:
-  isCodeQualityRequired: false
+  isCodeQualityRequired: true
   tool: sonarqube
-  projectKey: Petclinic
-  projectName: Petclinic
+  projectKey: SONAR_TOKEN
+  projectName: ukkiran_spring-petclinic
 dockerBuild:
   isDockerBuildRequired: true
 dockerDeploy:
